@@ -1,0 +1,32 @@
+nisa@nisa-VirtualBox:~$ curl -XDELETE 127.0.0.1:9200/movies/_doc/58559?pretty
+{
+  "_index" : "movies",
+  "_type" : "_doc",
+  "_id" : "58559",
+  "_version" : 2,
+  "result" : "deleted",
+  "_shards" : {
+    "total" : 2,
+    "successful" : 1,
+    "failed" : 0
+  },
+  "_seq_no" : 17,
+  "_primary_term" : 2
+}
+
+nisa@nisa-VirtualBox:~$ curl -XDELETE 127.0.0.1:9200/movies/_doc/200000?pretty
+{
+  "_index" : "movies",
+  "_type" : "_doc",
+  "_id" : "200000",
+  "_version" : 3,
+  "result" : "deleted",
+  "_shards" : {
+    "total" : 2,
+    "successful" : 1,
+    "failed" : 0
+  },
+  "_seq_no" : 20,
+  "_primary_term" : 2
+}
+
