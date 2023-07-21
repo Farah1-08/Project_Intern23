@@ -1,0 +1,629 @@
+cod	"200"
+message	0.0106
+cnt	96
+list	
+{ 0	
+dt	1553709600
+main	
+temp	288.02
+temp_min	287.858
+temp_max	288.02
+pressure	1007.942
+sea_level	1007.942
+grnd_level	994.369
+humidity	100
+temp_kf	0.16
+weather	
+0	
+id	800
+main	"Clear"
+description	"clear sky"
+icon	"01n"
+clouds	
+all	0
+wind	
+speed	10.14
+deg	250.188
+sys	
+pod	"n"
+dt_txt	"2019-03-27 18:00:00" }
+{ 1	
+dt	1553713200
+main	
+temp	288.12
+temp_min	288
+temp_max	288.12
+pressure	1007.595
+sea_level	1007.595
+grnd_level	993.851
+humidity	100
+temp_kf	0.12
+weather	
+0	
+id	801
+main	"Clouds"
+description	"few clouds"
+icon	"02n"
+clouds	
+all	17
+wind	
+speed	10.51
+deg	252.928
+sys	
+pod	"n"
+dt_txt	"2019-03-27 19:00:00" }
+{ 2	
+dt	1553716800
+main	
+temp	287.99
+temp_min	287.907
+temp_max	287.99
+pressure	1007.368
+sea_level	1007.368
+grnd_level	993.656
+humidity	100
+temp_kf	0.08
+weather	
+0	
+id	802
+main	"Clouds"
+description	"scattered clouds"
+icon	"03n"
+clouds	
+all	40
+wind	
+speed	10.96
+deg	255.128
+sys	
+pod	"n"
+dt_txt	"2019-03-27 20:00:00" }
+{ 3	
+dt	1553720400
+main	
+temp	287.66
+temp_min	287.622
+temp_max	287.66
+pressure	1007.217
+sea_level	1007.217
+grnd_level	993.538
+humidity	100
+temp_kf	0.04
+weather	
+0	
+id	803
+main	"Clouds"
+description	"broken clouds"
+icon	"04d"
+clouds	
+all	59
+wind	
+speed	10.76
+deg	256.258
+sys	
+pod	"d"
+dt_txt	"2019-03-27 21:00:00" }
+{ 4	
+dt	1553724000
+main	
+temp	287.61
+temp_min	287.61
+temp_max	287.61
+pressure	1007.364
+sea_level	1007.364
+grnd_level	993.602
+humidity	100
+temp_kf	0
+weather	
+0	
+id	803
+main	"Clouds"
+description	"broken clouds"
+icon	"04d"
+clouds	
+all	69
+wind	
+speed	10.07
+deg	255.667
+sys	
+pod	"d"
+dt_txt	"2019-03-27 22:00:00" }
+{ 5	
+dt	1553727600
+main	
+temp	288.321
+temp_min	288.321
+temp_max	288.321
+pressure	1007.245
+sea_level	1007.245
+grnd_level	993.446
+humidity	100
+temp_kf	0
+weather	
+0	
+id	803
+main	"Clouds"
+description	"broken clouds"
+icon	"04d"
+clouds	
+all	71
+wind	
+speed	10.11
+deg	249.683
+sys	
+pod	"d"
+dt_txt	"2019-03-27 23:00:00" }
+{ 6	
+dt	1553731200
+main	
+temp	289.151
+temp_min	289.151
+temp_max	289.151
+pressure	1006.899
+sea_level	1006.899
+grnd_level	993.031
+humidity	100
+temp_kf	0
+weather	
+0	
+id	803
+main	"Clouds"
+description	"broken clouds"
+icon	"04d"
+clouds	
+all	74
+wind	
+speed	10.22
+deg	247.242
+sys	
+pod	"d"
+dt_txt	"2019-03-28 00:00:00" }
+{ 7	
+dt	1553734800
+main	
+temp	289.662
+temp_min	289.662
+temp_max	289.662
+pressure	1006.872
+sea_level	1006.872
+grnd_level	992.643
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04d"
+clouds	
+all	99
+wind	
+speed	9.86
+deg	244.987
+sys	
+pod	"d"
+dt_txt	"2019-03-28 01:00:00" }
+{ 8	
+dt	1553738400
+main	
+temp	290.328
+temp_min	290.328
+temp_max	290.328
+pressure	1007.046
+sea_level	1007.046
+grnd_level	992.795
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04d"
+clouds	
+all	97
+wind	
+speed	10.22
+deg	245.994
+sys	
+pod	"d"
+dt_txt	"2019-03-28 02:00:00" }
+{ 9	
+dt	1553742000
+main	
+temp	290.654
+temp_min	290.654
+temp_max	290.654
+pressure	1007.074
+sea_level	1007.074
+grnd_level	992.766
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04d"
+clouds	
+all	96
+wind	
+speed	9.7
+deg	249.244
+sys	
+pod	"d"
+dt_txt	"2019-03-28 03:00:00" }
+{ 10	
+dt	1553745600
+main	
+temp	291.015
+temp_min	291.015
+temp_max	291.015
+pressure	1006.911
+sea_level	1006.911
+grnd_level	992.537
+humidity	100
+temp_kf	0
+weather	
+0	
+id	803
+main	"Clouds"
+description	"broken clouds"
+icon	"04d"
+clouds	
+all	73
+wind	
+speed	9.09
+deg	249.944
+sys	
+pod	"d"
+dt_txt	"2019-03-28 04:00:00" }
+{ 11	
+dt	1553749200
+main	
+temp	291.144
+temp_min	291.144
+temp_max	291.144
+pressure	1006.702
+sea_level	1006.702
+grnd_level	992.177
+humidity	100
+temp_kf	0
+weather	
+0	
+id	803
+main	"Clouds"
+description	"broken clouds"
+icon	"04d"
+clouds	
+all	58
+wind	
+speed	8.76
+deg	249.721
+sys	
+pod	"d"
+dt_txt	"2019-03-28 05:00:00" }
+{ 12	
+dt	1553752800
+main	
+temp	290.967
+temp_min	290.967
+temp_max	290.967
+pressure	1006.681
+sea_level	1006.681
+grnd_level	991.945
+humidity	100
+temp_kf	0
+weather	
+0	
+id	803
+main	"Clouds"
+description	"broken clouds"
+icon	"04d"
+clouds	
+all	65
+wind	
+speed	8.55
+deg	249.235
+sys	
+pod	"d"
+dt_txt	"2019-03-28 06:00:00" }
+{ 13	
+dt	1553756400
+main	
+temp	290.4
+temp_min	290.4
+temp_max	290.4
+pressure	1007.11
+sea_level	1007.11
+grnd_level	992.087
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04d"
+clouds	
+all	100
+wind	
+speed	7.89
+deg	249.579
+sys	
+pod	"d"
+dt_txt	"2019-03-28 07:00:00" }
+{ 14	
+dt	1553760000
+main	
+temp	289.4
+temp_min	289.4
+temp_max	289.4
+pressure	1007.989
+sea_level	1007.989
+grnd_level	992.995
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04d"
+clouds	
+all	100
+wind	
+speed	5.46
+deg	248.047
+sys	
+pod	"d"
+dt_txt	"2019-03-28 08:00:00" }
+{ 15	
+dt	1553763600
+main	
+temp	287.7
+temp_min	287.7
+temp_max	287.7
+pressure	1009.196
+sea_level	1009.196
+grnd_level	994.221
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04d"
+clouds	
+all	100
+wind	
+speed	2.22
+deg	230.812
+sys	
+pod	"d"
+dt_txt	"2019-03-28 09:00:00" }
+{ 16	
+dt	1553767200
+main	
+temp	286.7
+temp_min	286.7
+temp_max	286.7
+pressure	1010.387
+sea_level	1010.387
+grnd_level	995.371
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	100
+wind	
+speed	2.05
+deg	123.519
+sys	
+pod	"n"
+dt_txt	"2019-03-28 10:00:00" }
+{ 17	
+dt	1553770800
+main	
+temp	286.033
+temp_min	286.033
+temp_max	286.033
+pressure	1011.407
+sea_level	1011.407
+grnd_level	996.297
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	100
+wind	
+speed	3.81
+deg	105.04
+sys	
+pod	"n"
+dt_txt	"2019-03-28 11:00:00" }
+{ 18	
+dt	1553774400
+main	
+temp	285.688
+temp_min	285.688
+temp_max	285.688
+pressure	1012.147
+sea_level	1012.147
+grnd_level	996.859
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	99
+wind	
+speed	4.57
+deg	105.56
+sys	
+pod	"n"
+dt_txt	"2019-03-28 12:00:00" }
+{ 19	
+dt	1553778000
+main	
+temp	285.5
+temp_min	285.5
+temp_max	285.5
+pressure	1012.634
+sea_level	1012.634
+grnd_level	997.194
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	92
+wind	
+speed	4.84
+deg	105.363
+sys	
+pod	"n"
+dt_txt	"2019-03-28 13:00:00" }
+{ 20	
+dt	1553781600
+main	
+temp	285.221
+temp_min	285.221
+temp_max	285.221
+pressure	1012.955
+sea_level	1012.955
+grnd_level	997.493
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	86
+wind	
+speed	5.16
+deg	97.107
+sys	
+pod	"n"
+dt_txt	"2019-03-28 14:00:00" }
+{ 21	
+dt	1553785200
+main	
+temp	284.7
+temp_min	284.7
+temp_max	284.7
+pressure	1013.362
+sea_level	1013.362
+grnd_level	997.83
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	85
+wind	
+speed	4.9
+deg	90.538
+sys	
+pod	"n"
+dt_txt	"2019-03-28 15:00:00" }
+{ 22	
+dt	1553788800
+main	
+temp	284.331
+temp_min	284.331
+temp_max	284.331
+pressure	1013.809
+sea_level	1013.809
+grnd_level	998.262
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	86
+wind	
+speed	4.4
+deg	91.512
+sys	
+pod	"n"
+dt_txt	"2019-03-28 16:00:00" }
+{ 23	
+dt	1553792400
+main	
+temp	283.895
+temp_min	283.895
+temp_max	283.895
+pressure	1013.952
+sea_level	1013.952
+grnd_level	998.547
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	86
+wind	
+speed	4.45
+deg	90.142
+sys	
+pod	"n"
+dt_txt	"2019-03-28 17:00:00" }
+{ 24	
+dt	1553796000
+main	
+temp	283.249
+temp_min	283.249
+temp_max	283.249
+pressure	1014.075
+sea_level	1014.075
+grnd_level	998.716
+humidity	100
+temp_kf	0
+weather	
+0	
+id	804
+main	"Clouds"
+description	"overcast clouds"
+icon	"04n"
+clouds	
+all	88
+wind	
+speed	5.02
+deg	89.041
+sys	
+pod	"n"
+dt_txt	"2019-03-28 18:00:00" }
