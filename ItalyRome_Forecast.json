@@ -1,0 +1,263 @@
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [ { id: 800, main: 'Clear', description: 'clear sky', icon: '01n' } ],
+  base: 'stations',
+  main: {
+    temp: 295.12,
+    feels_like: 295.75,
+    temp_min: 293.42,
+    temp_max: 296.49,
+    pressure: 1019,
+    humidity: 91
+  },
+  visibility: 10000,
+  wind: { speed: 0.45, deg: 136, gust: 0.45 },
+  clouds: { all: 0 },
+  dt: 1689845823,
+  sys: {
+    type: 2,
+    id: 2009938,
+    country: 'US',
+    sunrise: 1689849767,
+    sunset: 1689900650
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
+2
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [
+    {
+      id: 803,
+      main: 'Clouds',
+      description: 'broken clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 295.2,
+    feels_like: 295.84,
+    temp_min: 293.42,
+    temp_max: 296.49,
+    pressure: 1019,
+    humidity: 91
+  },
+  visibility: 10000,
+  wind: { speed: 0.45, deg: 138, gust: 0.45 },
+  clouds: { all: 84 },
+  dt: 1689846888,
+  sys: {
+    type: 2,
+    id: 2009938,
+    country: 'US',
+    sunrise: 1689849767,
+    sunset: 1689900650
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
+3
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [
+    {
+      id: 802,
+      main: 'Clouds',
+      description: 'scattered clouds',
+      icon: '03n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 296.55,
+    feels_like: 296.98,
+    temp_min: 294.42,
+    temp_max: 297.59,
+    pressure: 1017,
+    humidity: 78
+  },
+  visibility: 10000,
+  wind: { speed: 2.57, deg: 220 },
+  clouds: { all: 40 },
+  dt: 1689907221,
+  sys: {
+    type: 1,
+    id: 5680,
+    country: 'US',
+    sunrise: 1689849767,
+    sunset: 1689900650
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
+4
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [
+    { id: 801, main: 'Clouds', description: 'few clouds', icon: '02n' }
+  ],
+  base: 'stations',
+  main: {
+    temp: 296.45,
+    feels_like: 296.79,
+    temp_min: 294.17,
+    temp_max: 297.59,
+    pressure: 1016,
+    humidity: 75
+  },
+  visibility: 10000,
+  wind: { speed: 0, deg: 0 },
+  clouds: { all: 20 },
+  dt: 1689912073,
+  sys: {
+    type: 1,
+    id: 5680,
+    country: 'US',
+    sunrise: 1689936208,
+    sunset: 1689987017
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
+5
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [ { id: 701, main: 'Mist', description: 'mist', icon: '50n' } ],
+  base: 'stations',
+  main: {
+    temp: 294.78,
+    feels_like: 295.53,
+    temp_min: 293.85,
+    temp_max: 295.58,
+    pressure: 1015,
+    humidity: 97
+  },
+  visibility: 6437,
+  wind: { speed: 1.54, deg: 190 },
+  clouds: { all: 100 },
+  dt: 1689923329,
+  sys: {
+    type: 2,
+    id: 2009938,
+    country: 'US',
+    sunrise: 1689936208,
+    sunset: 1689987017
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
+6
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [
+    {
+      id: 211,
+      main: 'Thunderstorm',
+      description: 'thunderstorm',
+      icon: '11n'
+    },
+    { id: 701, main: 'Mist', description: 'mist', icon: '50n' }
+  ],
+  base: 'stations',
+  main: {
+    temp: 294.8,
+    feels_like: 295.55,
+    temp_min: 293.85,
+    temp_max: 296.19,
+    pressure: 1015,
+    humidity: 97
+  },
+  visibility: 4828,
+  wind: { speed: 1.54, deg: 40 },
+  clouds: { all: 75 },
+  dt: 1689928226,
+  sys: {
+    type: 2,
+    id: 2009938,
+    country: 'US',
+    sunrise: 1689936208,
+    sunset: 1689987017
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
+7
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [ { id: 800, main: 'Clear', description: 'clear sky', icon: '01n' } ],
+  base: 'stations',
+  main: {
+    temp: 295.73,
+    feels_like: 296.21,
+    temp_min: 294.42,
+    temp_max: 297.6,
+    pressure: 1016,
+    humidity: 83
+  },
+  visibility: 10000,
+  wind: { speed: 0.45, deg: 322, gust: 0.89 },
+  clouds: { all: 0 },
+  dt: 1690166070,
+  sys: {
+    type: 2,
+    id: 2009938,
+    country: 'US',
+    sunrise: 1690109091,
+    sunset: 1690159745
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
+8
+{
+  coord: { lon: -85.1647, lat: 34.257 },
+  weather: [ { id: 800, main: 'Clear', description: 'clear sky', icon: '01n' } ],
+  base: 'stations',
+  main: {
+    temp: 294.78,
+    feels_like: 295.27,
+    temp_min: 293.42,
+    temp_max: 296.49,
+    pressure: 1017,
+    humidity: 87
+  },
+  visibility: 10000,
+  wind: { speed: 0.89, deg: 343, gust: 2.68 },
+  clouds: { all: 10 },
+  dt: 1690169691,
+  sys: {
+    type: 2,
+    id: 2038061,
+    country: 'US',
+    sunrise: 1690109091,
+    sunset: 1690159745
+  },
+  timezone: -14400,
+  id: 4219762,
+  name: 'Rome',
+  cod: 200
+}
+
