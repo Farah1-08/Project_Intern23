@@ -1,0 +1,243 @@
+{
+  coord: { lon: -87.125, lat: 39.5237 },
+  weather: [ { id: 701, main: 'Mist', description: 'mist', icon: '50n' } ],
+  base: 'stations',
+  main: {
+    temp: 295.36,
+    feels_like: 296.06,
+    temp_min: 294.48,
+    temp_max: 296.29,
+    pressure: 1016,
+    humidity: 93
+  },
+  visibility: 8047,
+  wind: { speed: 0, deg: 0 },
+  clouds: { all: 20 },
+  dt: 1689845926,
+  sys: {
+    type: 2,
+    id: 265379,
+    country: 'US',
+    sunrise: 1689849434,
+    sunset: 1689901924
+  },
+  timezone: -14400,
+  id: 4254884,
+  name: 'Brazil',
+  cod: 200
+}
+
+2
+{
+  coord: { lon: -87.125, lat: 39.5237 },
+  weather: [ { id: 701, main: 'Mist', description: 'mist', icon: '50n' } ],
+  base: 'stations',
+  main: {
+    temp: 295.3,
+    feels_like: 296,
+    temp_min: 294.48,
+    temp_max: 296.29,
+    pressure: 1016,
+    humidity: 93
+  },
+  visibility: 8047,
+  wind: { speed: 0, deg: 0 },
+  clouds: { all: 20 },
+  dt: 1689846929,
+  sys: {
+    type: 2,
+    id: 265379,
+    country: 'US',
+    sunrise: 1689849434,
+    sunset: 1689901924
+  },
+  timezone: -14400,
+  id: 4254884,
+  name: 'Brazil',
+  cod: 200
+}
+
+3
+{
+  coord: { lon: -87.125, lat: 39.5237 },
+  weather: [
+    {
+      id: 803,
+      main: 'Clouds',
+      description: 'broken clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 295.28,
+    feels_like: 295.43,
+    temp_min: 293.91,
+    temp_max: 296.86,
+    pressure: 1013,
+    humidity: 72,
+    sea_level: 1013,
+    grnd_level: 990
+  },
+  visibility: 10000,
+  wind: { speed: 3.66, deg: 339, gust: 9.67 },
+  clouds: { all: 84 },
+  dt: 1689907169,
+  sys: {
+    type: 2,
+    id: 265379,
+    country: 'US',
+    sunrise: 1689849434,
+    sunset: 1689901924
+  },
+  timezone: -14400,
+  id: 4254884,
+  name: 'Brazil',
+  cod: 200
+}
+
+4
+{
+  coord: { lon: -87.125, lat: 39.5237 },
+  weather: [ { id: 800, main: 'Clear', description: 'clear sky', icon: '01n' } ],
+  base: 'stations',
+  main: {
+    temp: 294.43,
+    feels_like: 294.47,
+    temp_min: 292.12,
+    temp_max: 295.98,
+    pressure: 1015,
+    humidity: 71
+  },
+  visibility: 10000,
+  wind: { speed: 2.06, deg: 330 },
+  clouds: { all: 0 },
+  dt: 1689912325,
+  sys: {
+    type: 2,
+    id: 265379,
+    country: 'US',
+    sunrise: 1689935884,
+    sunset: 1689988282
+  },
+  timezone: -14400,
+  id: 4254884,
+  name: 'Brazil',
+  cod: 200
+}
+
+5
+{
+  coord: { lon: -87.125, lat: 39.5237 },
+  weather: [
+    {
+      id: 804,
+      main: 'Clouds',
+      description: 'overcast clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 291.55,
+    feels_like: 291.61,
+    temp_min: 290.47,
+    temp_max: 292.41,
+    pressure: 1014,
+    humidity: 83,
+    sea_level: 1014,
+    grnd_level: 990
+  },
+  visibility: 10000,
+  wind: { speed: 2.93, deg: 335, gust: 5.2 },
+  clouds: { all: 96 },
+  dt: 1689923243,
+  sys: {
+    type: 2,
+    id: 265379,
+    country: 'US',
+    sunrise: 1689935884,
+    sunset: 1689988282
+  },
+  timezone: -14400,
+  id: 4254884,
+  name: 'Brazil',
+  cod: 200
+}
+
+6
+{
+  coord: { lon: -87.125, lat: 39.5237 },
+  weather: [
+    {
+      id: 803,
+      main: 'Clouds',
+      description: 'broken clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 290.37,
+    feels_like: 290.37,
+    temp_min: 289.63,
+    temp_max: 290.79,
+    pressure: 1014,
+    humidity: 85,
+    sea_level: 1014,
+    grnd_level: 991
+  },
+  visibility: 10000,
+  wind: { speed: 2.8, deg: 341, gust: 4.74 },
+  clouds: { all: 69 },
+  dt: 1689928464,
+  sys: {
+    type: 2,
+    id: 265379,
+    country: 'US',
+    sunrise: 1689935884,
+    sunset: 1689988282
+  },
+  timezone: -14400,
+  id: 4254884,
+  name: 'Brazil',
+  cod: 200
+}
+
+7
+{
+  coord: { lon: -87.125, lat: 39.5237 },
+  weather: [
+    {
+      id: 803,
+      main: 'Clouds',
+      description: 'broken clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 295.66,
+    feels_like: 296.11,
+    temp_min: 293.48,
+    temp_max: 296.98,
+    pressure: 1015,
+    humidity: 82
+  },
+  visibility: 10000,
+  wind: { speed: 0, deg: 0 },
+  clouds: { all: 75 },
+  dt: 1690166240,
+  sys: {
+    type: 2,
+    id: 265379,
+    country: 'US',
+    sunrise: 1690108784,
+    sunset: 1690160992
+  },
+  timezone: -14400,
+  id: 4254884,
+  name: 'Brazil',
+  cod: 200
+}
+
