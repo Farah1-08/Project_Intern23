@@ -1,0 +1,370 @@
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 802,
+      main: 'Clouds',
+      description: 'scattered clouds',
+      icon: '03d'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 292.71,
+    feels_like: 292.31,
+    temp_min: 290.85,
+    temp_max: 293.85,
+    pressure: 1015,
+    humidity: 61
+  },
+  visibility: 10000,
+  wind: { speed: 2.57, deg: 0 },
+  clouds: { all: 37 },
+  dt: 1689845056,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1689825990,
+    sunset: 1689883607
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+2
+{
+coord	
+lon	-0.1257
+lat	51.5085
+weather	
+0	
+id	802
+main	"Clouds"
+description	"scattered clouds"
+icon	"03d"
+base	"stations"
+main	
+temp	292.6
+feels_like	292.22
+temp_min	290.37
+temp_max	293.85
+pressure	1015
+humidity	62
+visibility	10000
+wind	
+speed	2.57
+deg	0
+clouds	
+all	37
+dt	1689844748
+sys	
+type	2
+id	2075535
+country	"GB"
+sunrise	1689825990
+sunset	1689883607
+timezone	3600
+id	2643743
+name	"London"
+cod	200
+}
+
+3
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 802,
+      main: 'Clouds',
+      description: 'scattered clouds',
+      icon: '03d'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 292.73,
+    feels_like: 292.34,
+    temp_min: 290.85,
+    temp_max: 294.27,
+    pressure: 1015,
+    humidity: 61
+  },
+  visibility: 10000,
+  wind: { speed: 2.57, deg: 0 },
+  clouds: { all: 37 },
+  dt: 1689845200,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1689825990,
+    sunset: 1689883607
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+4
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 802,
+      main: 'Clouds',
+      description: 'scattered clouds',
+      icon: '03d'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 293.11,
+    feels_like: 292.7,
+    temp_min: 291.1,
+    temp_max: 294.83,
+    pressure: 1015,
+    humidity: 59
+  },
+  visibility: 10000,
+  wind: { speed: 1.54, deg: 0 },
+  clouds: { all: 40 },
+  dt: 1689846331,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1689825990,
+    sunset: 1689883607
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+5
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 803,
+      main: 'Clouds',
+      description: 'broken clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 286.83,
+    feels_like: 286.16,
+    temp_min: 284.98,
+    temp_max: 288.05,
+    pressure: 1013,
+    humidity: 73
+  },
+  visibility: 10000,
+  wind: { speed: 3.6, deg: 300 },
+  clouds: { all: 72 },
+  dt: 1689906894,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1689912469,
+    sunset: 1689969935
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+6
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 803,
+      main: 'Clouds',
+      description: 'broken clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 285.67,
+    feels_like: 284.94,
+    temp_min: 283.58,
+    temp_max: 287.35,
+    pressure: 1012,
+    humidity: 75
+  },
+  visibility: 10000,
+  wind: { speed: 2.46, deg: 332, gust: 6.35 },
+  clouds: { all: 58 },
+  dt: 1689911719,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1689912469,
+    sunset: 1689969935
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+7
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 804,
+      main: 'Clouds',
+      description: 'overcast clouds',
+      icon: '04d'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 287.28,
+    feels_like: 286.63,
+    temp_min: 285.11,
+    temp_max: 288.91,
+    pressure: 1013,
+    humidity: 72
+  },
+  visibility: 10000,
+  wind: { speed: 2.57, deg: 300 },
+  clouds: { all: 100 },
+  dt: 1689922790,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1689912469,
+    sunset: 1689969935
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+8
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 804,
+      main: 'Clouds',
+      description: 'overcast clouds',
+      icon: '04d'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 289.77,
+    feels_like: 289.13,
+    temp_min: 288.01,
+    temp_max: 291.64,
+    pressure: 1013,
+    humidity: 63
+  },
+  visibility: 10000,
+  wind: { speed: 3.09, deg: 300 },
+  clouds: { all: 94 },
+  dt: 1689928227,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1689912469,
+    sunset: 1689969935
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+9
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 804,
+      main: 'Clouds',
+      description: 'overcast clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 288.63,
+    feels_like: 288.56,
+    temp_min: 287.06,
+    temp_max: 289.72,
+    pressure: 1001,
+    humidity: 89
+  },
+  visibility: 10000,
+  wind: { speed: 2.24, deg: 228, gust: 3.13 },
+  clouds: { all: 100 },
+  dt: 1690165902,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1690171914,
+    sunset: 1690228906
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
+10
+{
+  coord: { lon: -0.1257, lat: 51.5085 },
+  weather: [
+    {
+      id: 803,
+      main: 'Clouds',
+      description: 'broken clouds',
+      icon: '04n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 288.53,
+    feels_like: 288.47,
+    temp_min: 287.06,
+    temp_max: 289.34,
+    pressure: 1002,
+    humidity: 90
+  },
+  visibility: 10000,
+  wind: { speed: 4.12, deg: 240 },
+  clouds: { all: 75 },
+  dt: 1690169275,
+  sys: {
+    type: 2,
+    id: 2075535,
+    country: 'GB',
+    sunrise: 1690171914,
+    sunset: 1690228906
+  },
+  timezone: 3600,
+  id: 2643743,
+  name: 'London',
+  cod: 200
+}
+
